@@ -1,7 +1,12 @@
 aid: allergan
-url: https://raw.githubusercontent.com/api-evangelist/allergan/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/allergan/refs/heads/main/apis.yml
 modified: '2026-03-23'
 apis: []
 common:
   - type: Website
     url: https://www.allergan.com
+description: >-
+  Allergan is a global pharmaceutical company that develops, manufactures, and commercializes
+  branded therapeutics, devices, and biologic products across central nervous system,
+  eye care, medical aesthetics, and other specialty areas.
