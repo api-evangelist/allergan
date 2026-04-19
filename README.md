@@ -1,11 +1,12 @@
 # Allergan
 
-This is a repository for tracking the APIs, SDKs, and other developer resources for Allergan.
+Allergan was a global pharmaceutical company that developed, manufactured, and commercialized branded therapeutics, devices, and biologic products across medical aesthetics, eye care, central nervous system, and gastroenterology. The company was the maker of Botox (botulinum toxin), Juvederm (injectable filler), CoolSculpting, Alphagan, Vraylar, Linzess, and Ubrelvy.
 
-## APIs
+AbbVie completed its $63 billion acquisition of Allergan in May 2020. The company now operates as Allergan Aesthetics, an AbbVie company.
 
-No APIs have been documented yet. Check back for updates.
+Allergan Data Labs, the digital innovation arm, built the Alle loyalty platform serving over 3 million users across nearly 20,000 medical offices and spas in the US, using machine learning for personalized consumer engagement in medical aesthetics.
 
-## Properties
+## Links
 
-- [Website](https://www.allergan.com)
+- [Allergan Aesthetics](https://www.allerganaesthetics.com)
+- [AbbVie - Allergan](https://www.abbvie.com/allergan.html)
