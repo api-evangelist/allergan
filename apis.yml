@@ -1,7 +1,7 @@
 aid: allergan
 url: >-
   https://raw.githubusercontent.com/api-evangelist/allergan/refs/heads/main/apis.yml
-modified: '2026-04-19'
+modified: '2026-06-20'
 description: >-
   Allergan was a global pharmaceutical company that developed, manufactured,
   and commercialized branded therapeutics, devices, and biologic products
@@ -21,6 +21,8 @@ common:
     url: https://www.allerganaesthetics.com
   - type: Website
     url: https://www.abbvie.com/allergan.html
+  - type: LLMsTxt
+    url: llms/allergan-llms.txt
 tags:
   - Pharmaceuticals
   - Medical Aesthetics
