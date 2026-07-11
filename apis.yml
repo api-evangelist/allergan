@@ -17,6 +17,8 @@ description: >-
   public developer API program.
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/allergan-domain-security.yml
   - type: Website
     url: https://www.allerganaesthetics.com
   - type: Website
